@@ -75,4 +75,4 @@ All extracted asset data lives only in RAM. No temporary images/audio files gene
 2. Large archives (GB-scale) may consume high RAM if fully preloaded
 3. Does not support write / modify RPA archives (read-only only)
 #### License
-This project using `MIT` Lincese.
+This project using `MIT` License.
